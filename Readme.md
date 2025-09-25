@@ -4,11 +4,13 @@
 
 An interactive Streamlit dashboard for pharmaceutical price benchmarking, vendor performance analysis, and procurement insights.
 
+
 📌 Overview:-
 
 This project provides a comprehensive data analytics dashboard to evaluate pharmaceutical material pricing, vendor competitiveness, and compliance.
 
 It uses Streamlit, pandas, and Plotly to deliver interactive visualizations and insights that help optimize procurement strategies and vendor management.
+
 
 🔑 Features:-
 
@@ -27,6 +29,7 @@ It uses Streamlit, pandas, and Plotly to deliver interactive visualizations and 
 ✅ Data Quality Check: Highlights valid vs invalid records to ensure reliable insights.
 
 📥 Export: Download filtered datasets as CSV for external use.
+
 
 📊 Key Insights from Analysis:-
 
