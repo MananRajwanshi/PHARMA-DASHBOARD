@@ -14,21 +14,21 @@ It uses Streamlit, pandas, and Plotly to deliver interactive visualizations and 
 
 🔑 Features:-
 
-📊 Filters & KPIs: Dynamic filtering by material type, vendor, GMP compliance, currency, and price tier.
+1.Filters & KPIs: Dynamic filtering by material type, vendor, GMP compliance, currency, and price tier.
 
-🎯 Price Analysis: Distribution, deviations, and benchmark comparisons to detect outliers and opportunities.
+2.Price Analysis: Distribution, deviations, and benchmark comparisons to detect outliers and opportunities.
 
-🏭 Vendor Insights: Performance analysis, average pricing, and GMP compliance status.
+3.Vendor Insights: Performance analysis, average pricing, and GMP compliance status.
 
-🔬 Material Insights: Specification and grade-level analysis to identify cost-effective suppliers.
+4.Material Insights: Specification and grade-level analysis to identify cost-effective suppliers.
 
-📅 Temporal Trends: Price evolution and material count tracking over time.
+5.Temporal Trends: Price evolution and material count tracking over time.
 
-🌐 Currency & Portal Analysis: Comparison of sourcing platforms and currency impacts.
+6.Currency & Portal Analysis: Comparison of sourcing platforms and currency impacts.
 
-✅ Data Quality Check: Highlights valid vs invalid records to ensure reliable insights.
+7.Data Quality Check: Highlights valid vs invalid records to ensure reliable insights.
 
-📥 Export: Download filtered datasets as CSV for external use.
+8.Export: Download filtered datasets as CSV for external use.
 
 
 📊 Key Insights from Analysis:-
